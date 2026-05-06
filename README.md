@@ -108,7 +108,8 @@ Pin 6  │ GND    │ GND   ══════════════  Pin 6  �
 
 ### Circuit Diagram
 
-![Circuit Diagram](circuit%20diagram/circuit_diagram.png)
+[A06_Space_Shooter_SPI_2026_v1_APR24_2242.pdf](https://github.com/user-attachments/files/27436235/A06_Space_Shooter_SPI_2026_v1_APR24_2242.pdf)
+
 
 ---
 
