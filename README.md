@@ -23,6 +23,7 @@
 ---
 
 ## 📖 Overview
+<img width="480" height="320" alt="demo" src="https://github.com/user-attachments/assets/ff97c71b-29d7-49a1-a3d6-daf4b166e6d5" />
 
 **Space Shooter via SPI** is a 1v1 space shooter game built entirely on embedded hardware — no networking stack, no WiFi, no TCP/IP. Two Raspberry Pi 1 nodes are connected directly at the hardware level via a 4-wire SPI bus, achieving deterministic sub-millisecond latency that no wireless protocol can match.
 
@@ -209,7 +210,6 @@ python3 master.py
 Pi A will show the main menu. Press **Host Multiplayer Game**, wait for Pi B to connect, enter player names, and start the game.
 
 ---
-<img width="480" height="320" alt="demo" src="https://github.com/user-attachments/assets/ff97c71b-29d7-49a1-a3d6-daf4b166e6d5" />
 
 ## 📊 Data Logging
 
