@@ -1,6 +1,9 @@
 <div align="center">
 
 # 🚀 Space Shooter via SPI
+<div align="center">
+
+<img width="120" alt="THD Logo" src="assets/thd_logo.png" />
 
 **A distributed real-time multiplayer game running on two Raspberry Pi 1 Model B+ nodes**  
 **communicating over a hardware SPI bus at 1 MHz.**
