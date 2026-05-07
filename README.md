@@ -209,6 +209,7 @@ python3 master.py
 Pi A will show the main menu. Press **Host Multiplayer Game**, wait for Pi B to connect, enter player names, and start the game.
 
 ---
+<img width="480" height="320" alt="demo" src="https://github.com/user-attachments/assets/ff97c71b-29d7-49a1-a3d6-daf4b166e6d5" />
 
 ## 📊 Data Logging
 
