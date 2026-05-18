@@ -113,7 +113,8 @@ Pin 6  │ GND    │ GND   ══════════════  Pin 6  �
 > ⚠️ **Critical:** All GPIO signals operate at **3.3V**. Never connect 5V to any GPIO pin — permanent damage will occur.
 
 ### Circuit Diagram
-<img width="1191" height="842" alt="A06_Space_Shooter_SPI_2026_v1_APR24_2242" src="https://github.com/user-attachments/assets/592ffa20-ac40-4f63-b1d3-b42a37d92a28" />
+[v1.3_may_17_space.pdf](https://github.com/user-attachments/files/27965434/v1.3_may_17_space.pdf)
+
 ---
 
 ## 🎮 Game Loop — How It Works
