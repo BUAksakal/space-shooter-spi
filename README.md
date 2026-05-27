@@ -113,7 +113,8 @@ Pin 6  │ GND    │ GND   ══════════════  Pin 6  �
 > ⚠️ **Critical:** All GPIO signals operate at **3.3V**. Never connect 5V to any GPIO pin — permanent damage will occur.
 
 ### Circuit Diagram
-19may_sikcuk.pdf
+<img width="1755" height="1240" alt="19may_sikçük_page-0001" src="https://github.com/user-attachments/assets/25cc8691-bea6-48bf-a340-a38c53c6a22a" />
+
 ## 🎮 Game Loop — How It Works
 
 Every **33.3 ms** (30 FPS), the Master Pi executes the following sequence:
