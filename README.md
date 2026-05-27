@@ -113,8 +113,7 @@ Pin 6  │ GND    │ GND   ══════════════  Pin 6  �
 > ⚠️ **Critical:** All GPIO signals operate at **3.3V**. Never connect 5V to any GPIO pin — permanent damage will occur.
 
 ### Circuit Diagram
-[19may_sikçük.pdf](https://github.com/user-attachments/files/28310095/19may_sikcuk.pdf)
-
+[19may_sikçük.pdf](https://github.com/user-attachments/files/28310119/19may_sikcuk.pdf)
 ---
 
 ## 🎮 Game Loop — How It Works
