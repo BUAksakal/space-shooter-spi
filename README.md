@@ -286,18 +286,6 @@ During gameplay, the following metrics are logged every frame to `logs/game_log.
 | Ground resistance | ≤ 0.5 Ω between nodes | High |
 | ADC resolution | 16-bit (65,536 steps) | High |
 
----
-
-## 👥 Team
-
-| Student | ID | Contributions |
-|---|---|---|
-| Seifeldin Haggag | 22400909 | Project Plan · HW Architecture · Requirements |
-| Berke Aksakal | 22514163 | State of the Art · HW Architecture · Circuit Diagram |
-| Tarandeep Dhillon | 22407483 | SW Architecture · Circuit Diagram |
-| Harun Dolcan | 22511850 | SW Architecture · Requirements |
-
----
 
 ## 📚 References
 
